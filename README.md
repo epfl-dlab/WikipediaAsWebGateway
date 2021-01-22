@@ -12,3 +12,8 @@ _Second, we investigate patterns of engagement with external links, finding that
 _Third, we quantify the hypothetical economic value of the clicks received by external websites from English Wikipedia, by estimating that the respective website owners would need to pay a total of \$8--15 million per month to obtain the same volume of traffic via sponsored search._
 
 _Overall, these findings shed light on Wikipedia's role not only as an important source of information, but also as a high-traffic gateway to the broader Web ecosystem._
+
+### Files in this repository
+
+- _TrainOfficialLinkClassifier.ipynb_: Performance of the binary classifier to predict the class of the link in the infobox (Official/Not official).
+
