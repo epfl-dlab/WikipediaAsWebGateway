@@ -20,3 +20,4 @@ Full paper: [https://arxiv.org/abs/2102.07385](https://arxiv.org/abs/2102.07385)
 - _GoogleAdsCostForecastPlot.ipynb_: Estimation of the CPC with Google Ads (Figure 10)
 - _FeaturesImportanceClickAndTime.ipynb_: Regressions and plots (Figure 5a, 7a, 8) describing the coeffients for High-Low CTR and Fast-Slow click.
 - _CTRateCoeffPlotTopK.ipynb_: Regressions with varying top-bottom K. It contains Figure 6 extended to all topics.
+- _LinguisticAnalysis3000Click.ipynb_: Words-based regression to predicit the CTR (Figure 5b)
